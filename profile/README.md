@@ -55,4 +55,13 @@ Corrections and new providers welcome.
 </tr>
 </table>
 
+**More tools**
+
+| | |
+|---|---|
+| [cloud-bill-analyzer](https://github.com/moveinfra/cloud-bill-analyzer) | Drop an AWS, Azure or Google Cloud bill export, see the same usage priced on EU clouds. Runs in your browser. [Try it](https://moveinfra.eu/bill-analyzer/) |
+| [cloud-lock-in-scanner](https://github.com/moveinfra/cloud-lock-in-scanner) | Finds hard-to-move services in Terraform, CloudFormation and code; EU-portability score as a CLI and GitHub Action |
+| [eu-cloud-prices](https://github.com/moveinfra/eu-cloud-prices) | Monthly EUR prices on AWS, Azure, Google Cloud, UpCloud, Hetzner, Scaleway and OVHcloud, every number sourced. [Table](https://moveinfra.eu/eu-cloud-prices/) |
+| [cloud-switching-kit](https://github.com/moveinfra/cloud-switching-kit) | Exit fee calculator and EU Data Act switching notice. [Try it](https://moveinfra.eu/cloud-exit-fees/) |
+
 <sub>Contributions welcome: each repository has a <code>CONTRIBUTING.md</code>. Security issues: Security → Report a vulnerability on the repository, or hello@moveinfra.eu.</sub>
